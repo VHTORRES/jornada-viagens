@@ -11,7 +11,7 @@
 
   --backgroud-primary-color: #ffffff;
   --backgroud-secundary-color: #f5f5f5;
-  --backgroud-tertiary-color: #0000;
+  --backgroud-tertiary-color: #000000;
 
   --text-primary-color: #222222;
   --text-secundary-color: #ffffff;
@@ -37,5 +37,3 @@ button {
   padding: 0;
   box-sizing: border-box;
 }
-
-
