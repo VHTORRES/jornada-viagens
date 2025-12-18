@@ -57,10 +57,11 @@
 /*  Blog */
 
 .blog .hero-img {
-  background: url(../img/blog/imagem-blog-mobile.png);
+  background: url(../img/blog/imagem-blog-mobile.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 500px;
+  background-position-y: -130px;
 }
 
 .blog .hero-content {
