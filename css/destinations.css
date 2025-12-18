@@ -28,6 +28,15 @@
   width: 100%;
 }
 
+/* Blog */
+
+.destinations .item.arrival .img-item {
+  background: url("../img/blog/Tokyo-arrival-tablet.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 32px;
+}
+
 @media screen and (min-width: 768px) {
   .destinations {
     width: 648px;
@@ -47,7 +56,31 @@
   .destinations .button {
     width: 280px;
   }
+
+  /* Blog */
+
+  .destination-items .item.arrival {
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 24px;
+  }
+
+  .destinations .item.arrival .img-item {
+    background: url("../img/blog/Tokyo-arrival-tablet.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 312px;
+    height: 360px;
+  }
+
+  .destination-items .item.arrival p {
+    width: 312px;
+    height: 348px;
+    margin-bottom: 0;
+  }
 }
+
 @media screen and (min-width: 1024px) {
   .destinations {
     width: 900px;
@@ -57,12 +90,47 @@
     width: 100%;
     height: 452px;
   }
+
+  /* Blog */
+
+  .destinations .item.arrival .img-item {
+    background: url("../img/blog/tokyo-arrival.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 524px;
+  }
+
+  .destination-items .item.arrival {
+    gap: 60px;
+  }
 }
+
 @media screen and (min-width: 1440px) {
   .destinations {
     width: 1200px;
   }
   .destination-items {
     flex-direction: row;
+  }
+
+  /* Blog */
+
+  .blog-journey .destination-items {
+    flex-direction: column;
+  }
+
+  .destination-items .item.arrival {
+    gap: 90px;
+  }
+
+  .destination-items .item.arrival p {
+    width: 588px;
+    line-height: 36px;
+  }
+
+  .destinations .item.tokyo.accommodation .img-item {
+    background: url(../img/blog/Tokyo-blog-desktop.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
   }
 }
