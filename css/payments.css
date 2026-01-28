@@ -8,15 +8,15 @@
 }
 
 .payments .content-container .image-gallery .image.first {
-  background: url(../img/bag-mobile.jpg) no-repeat;
+  background: url("../img/bag-mobile.jpg") no-repeat;
   background-size: cover;
 }
 .payments .content-container .image-gallery .image.second {
-  background: url(../img/passport-mobile.png) no-repeat;
+  background: url("../img/passport-mobile.png") no-repeat;
   background-size: cover;
 }
 .payments .content-container .image-gallery .image.thirdy {
-  background: url(../img/people-mobile.jpg) no-repeat;
+  background: url("../img/people-mobile.jpg") no-repeat;
   background-size: cover;
 }
 .payments .content-container .image-gallery .image.colspan-2 {
@@ -25,42 +25,42 @@
 
 /* PACOTES DE VIAGENS */
 .travel-packages.payments .content-container .image-gallery .image.first {
-  background: url(../img/travel-packages/japão-templo-mobile.png) no-repeat;
+  background: url("../img/travel-packages/japão-templo-mobile.png") no-repeat;
   background-size: cover;
 }
 .travel-packages.payments .content-container .image-gallery .image.second {
-  background: url(../img/travel-packages/japão-cidade-mobile.png) no-repeat;
+  background: url("../img/travel-packages/japão-cidade-mobile.png") no-repeat;
   background-size: cover;
 }
 .travel-packages.payments .content-container .image-gallery .image.thirdy {
-  background: url(../img/travel-packages/japão-people-mobile.png) no-repeat;
+  background: url("../img/travel-packages/japão-people-mobile.png") no-repeat;
   background-size: cover;
 }
 
 @media screen and (min-width: 768px) {
   .payments .content-container .image-gallery .image.first {
-    background: url(../img/bag-tablet.png) no-repeat;
+    background: url("../img/bag-tablet.png") no-repeat;
     background-size: cover;
   }
   .payments .content-container .image-gallery .image.second {
-    background: url(../img/passport-tablet.png) no-repeat;
+    background: url("../img/passport-tablet.png") no-repeat;
     background-size: cover;
   }
   .payments .content-container .image-gallery .image.thirdy {
-    background: url(../img/people-tablet.png) no-repeat;
+    background: url("../img/people-tablet.png") no-repeat;
     background-size: cover;
   }
   /* PACOTES DE VIAGENS */
   .travel-packages.payments .content-container .image-gallery .image.first {
-    background: url(../img/travel-packages//japão-templo-tablet.png) no-repeat;
+    background: url("../img/travel-packages//japão-templo-tablet.png") no-repeat;
     background-size: cover;
   }
   .travel-packages.payments .content-container .image-gallery .image.second {
-    background: url(../img/travel-packages/japão-cidade-tablet.png) no-repeat;
+    background: url("../img/travel-packages/japão-cidade-tablet.png") no-repeat;
     background-size: cover;
   }
   .travel-packages.payments .content-container .image-gallery .image.thirdy {
-    background: url(../img/travel-packages/japão-people-tablet.png) no-repeat;
+    background: url("../img/travel-packages/japão-people-tablet.png") no-repeat;
     background-size: cover;
   }
 }
