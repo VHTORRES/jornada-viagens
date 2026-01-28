@@ -31,20 +31,20 @@
 /* Blog */
 
 .destinations .item.arrival .img-item {
-  background: url("../img/blog/Tokyo-arrival-tablet.jpg");
+  background: url("../img/blog/tokyo-arrival-tablet.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   margin-bottom: 32px;
 }
 
 .destinations .item.hiroshima .img-item {
-  background: url("../img/blog/Hiroshima-mobile.jpg");
+  background: url("../img/blog/hiroshima-mobile.jpg");
   background-size: cover;
   background-position-x: center;
 }
 
 .destinations .item.kyoto .img-item {
-  background: url("../img/blog/Kyoto-mobile.jpg");
+  background: url("../img/blog/kyoto-mobile.jpg");
   background-size: cover;
 }
 
@@ -57,11 +57,11 @@
     height: 452px;
   }
   .destinations .item.tokyo .img-item {
-    background: url("../img/Tokyo-tablet-desktop.jpg");
+    background: url("../img/tokyo-tablet-desktop.jpg");
     background-size: cover;
   }
   .destinations .item.osaka .img-item {
-    background: url("../img/Osaka-tablet-desktop.jpg");
+    background: url("../img/osaka-tablet-desktop.jpg");
     background-size: cover;
   }
   .destinations .button {
@@ -78,7 +78,7 @@
   }
 
   .destinations .item.arrival .img-item {
-    background: url("../img/blog/Tokyo-arrival-tablet.jpg");
+    background: url("../img/blog/tokyo-arrival-tablet.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     width: 312px;
@@ -98,7 +98,7 @@
   }
 
   .destinations .item.kyoto .img-item {
-    background: url("../img/blog/Kyoto-tablet.jpg");
+    background: url("../img/blog/kyoto-tablet.jpg");
     background-size: cover;
   }
 }
@@ -132,13 +132,13 @@
   }
 
   .destinations .item.hiroshima .img-item {
-    background: url("../img/blog/Hiroshima-mobile.jpg");
+    background: url("../img/blog/hiroshima-mobile.jpg");
     background-size: cover;
     background-position-x: center;
   }
 
   .destinations .item.kyoto .img-item {
-    background: url("../img/blog/Kyoto-mobile.jpg");
+    background: url("../img/blog/kyoto-mobile.jpg");
     background-size: cover;
   }
 }
@@ -171,7 +171,7 @@
   }
 
   .destinations .item.tokyo.accommodation .img-item {
-    background: url("../img/blog/Tokyo-blog-desktop.jpg");
+    background: url("../img/blog/tokyo-blog-desktop.jpg");
     background-repeat: no-repeat;
     height: 300px;
   }
