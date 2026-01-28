@@ -31,20 +31,20 @@
 /* Blog */
 
 .destinations .item.arrival .img-item {
-  background: url("../img/blog/Tokyo-arrival-tablet.jpg");
+  background: url("../img/blog/tokyo-arrival-tablet.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   margin-bottom: 32px;
 }
 
 .destinations .item.hiroshima .img-item {
-  background: url("../img/blog/Hiroshima-mobile.jpg");
+  background: url("../img/blog/hiroshima-mobile.jpg");
   background-size: cover;
   background-position-x: center;
 }
 
 .destinations .item.kyoto .img-item {
-  background: url("../img/blog/Kyoto-mobile.jpg");
+  background: url("../img/blog/kyoto-mobile.jpg");
   background-size: cover;
 }
 
