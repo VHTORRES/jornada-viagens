@@ -4,11 +4,11 @@
   width: 100%;
 }
 .hero .hero-img {
-  background: url(../img/hero-mobile.jpg) no-repeat;
+  background: url("../img/hero-mobile.jpg") no-repeat;
   background-size: cover;
 }
 .bottom-hero .hero-img {
-  background: url(../img/bg-bottom-hero-mobile.png) no-repeat;
+  background: url("../img/bg-bottom-hero-mobile.png") no-repeat;
   background-size: cover;
 }
 
@@ -24,11 +24,11 @@
 /* PACOTES DE VIAGENS */
 .travel-packages .hero-img {
   height: 460px;
-  background: url(../img/travel-packages/japan-bg-hero-tablet.png) no-repeat;
+  background: url("../img/travel-packages/japan-bg-hero-tablet.png") no-repeat;
   background-size: cover;
 }
 .travel-packages.bottom-hero .hero-img {
-  background: url(../img/travel-packages/japan-bg-bottom-hero-mobile.png)
+  background: url("../img/travel-packages/japan-bg-bottom-hero-mobile.png")
     no-repeat;
   background-size: cover;
 }
@@ -57,7 +57,7 @@
 /*  Blog */
 
 .blog .hero-img {
-  background: url(../img/blog/imagem-blog-mobile.jpg);
+  background: url("../img/blog/imagem-blog-mobile.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 500px;
@@ -92,12 +92,12 @@
 @media screen and (min-width: 768px) {
   .hero .hero-img {
     height: 620px;
-    background: url(../img/hero-tablet.jpg) no-repeat;
+    background: url("../img/hero-tablet.jpg") no-repeat;
     background-size: cover;
   }
   .bottom-hero .hero-img {
     height: 400px;
-    background: url(../img/bg-bottom-hero-tablet.png) no-repeat;
+    background: url("../img/bg-bottom-hero-tablet.png") no-repeat;
     background-size: cover;
   }
 
@@ -115,13 +115,13 @@
     line-height: 48px;
   }
   .travel-packages .hero-img {
-    background: url(../img/travel-packages/japan-bg-hero-tablet.png) no-repeat;
+    background: url("../img/travel-packages/japan-bg-hero-tablet.png") no-repeat;
     background-size: cover;
     height: 620px;
   }
   .travel-packages.bottom-hero .hero-img {
     height: 400px;
-    background: url(../img/travel-packages/japan-bg-bottom-hero-tablet.png)
+    background: url("../img/travel-packages/japan-bg-bottom-hero-tablet.png")
       no-repeat;
     background-size: cover;
   }
@@ -136,7 +136,7 @@
     line-height: 48px;
   }
   .blog .hero-img {
-    background: url(../img/blog/imagem-blog-tablet.jpg) no-repeat;
+    background: url("../img/blog/imagem-blog-tablet.jpg") no-repeat;
     background-size: cover;
     background-position: center;
     height: 620px;
@@ -145,13 +145,13 @@
 
 @media screen and (min-width: 1024px) {
   .hero .hero-img {
-    background: url(../img/hero-desktop.jpg) no-repeat;
+    background: url("../img/hero-desktop.jpg") no-repeat;
     background-size: cover;
   }
 
   .bottom-hero .hero-img {
     height: 600px;
-    background: url(../img/bg-bottom-hero-desktop.png) no-repeat;
+    background: url("../img/bg-bottom-hero-desktop.png") no-repeat;
     background-size: cover;
   }
   .hero h2 {
@@ -166,12 +166,13 @@
     width: 570px;
   }
   .travel-packages .hero-img {
-    background: url(../img/travel-packages/japan-bg-hero-desktop.png) no-repeat;
+    background: url("../img/travel-packages/japan-bg-hero-desktop.png")
+      no-repeat;
     background-size: cover;
   }
   .travel-packages.bottom-hero .hero-img {
     height: 600px;
-    background: url(../img/travel-packages/japan-bg-bottom-hero-desktop.png)
+    background: url("../img/travel-packages/japan-bg-bottom-hero-desktop.png")
       no-repeat;
     background-size: cover;
   }
@@ -186,7 +187,7 @@
     width: 570px;
   }
   .blog .hero-img {
-    background: url(../img/blog/imagem-blog-desktop.jpg) no-repeat;
+    background: url("../img/blog/imagem-blog-desktop.jpg") no-repeat;
     background-size: cover;
     background-position: center;
   }
